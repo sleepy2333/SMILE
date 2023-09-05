@@ -1,1 +1,1 @@
-# SMILE: Spiking Multimodal Interactive Label-guided Enhancement Network For Emotion Recognition
+# SMILE: Spiking Multi-modal Interactive Label-guided Enhancement Network for Emotion Recognition
