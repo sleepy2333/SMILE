@@ -15,7 +15,7 @@ demonstrate the superiority of SMILE over state-of-the-art
 models. Notably, SMILE achieves a significant 28.5% improvement in accuracy compared to the benchmark method
 when evaluated on the NEMu dataset. 
 
-### Architecture:   
+## Architecture:   
 
 ![arch](./architecture.png)
 The modality-specific refinement module incorporates visual, audio and textual feature
@@ -24,10 +24,10 @@ adjusts the spike thresholds. The fine-grained semantic and temporal information
 investigated by the spiking-scaled attention. Multi-modal interaction and label-modality dependence are captured through the
 modality-interactive exploration module and the label-modality matching module.
 
-### Usage
-#### Datasets
+## Usage
+### Datasets
 CMU-MOSEI files can be downloaded from [here](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)
 
 NEMu files can be downloaded from [here](https://github.com/MANLP-suda/HHMPN)
-#### Environment
+### Environment
   pytorch=1.8.0 ,spikingjelly==0.0.0.0.14,scipy=1.6.2
