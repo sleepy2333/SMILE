@@ -18,7 +18,11 @@ when evaluated on the NEMu dataset.
 ### Architecture:   
 
 ![arch](./architecture.png)
-
+The modality-specific refinement module incorporates visual, audio and textual feature
+extraction (denoted by orange, blue and purple blocks respectively). The “Dynamic Threshold Modification” block flexibly
+adjusts the spike thresholds. The fine-grained semantic and temporal information of visual and audio modalities are further
+investigated by the spiking-scaled attention. Multi-modal interaction and label-modality dependence are captured through the
+modality-interactive exploration module and the label-modality matching module.
 
 ### Environment
   pytorch=1.8.0 ,spikingjelly==0.0.0.0.14,scipy=1.6.2
