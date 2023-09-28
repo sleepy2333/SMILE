@@ -1,6 +1,5 @@
 # SMILE: Spiking Multi-modal Interactive Label-guided Enhancement Network for Emotion Recognition
-
-### Abstract：  
+  
 Multi-modal multi-label emotion recognition has gained significant attention in the field of affective computing, enabling various signals to distinguish complex emotions accurately.
 However, previous studies primarily focus on capturing invariant representations, neglecting the importance of incorporating the fluctuation of temporal information which affects
 the model robustness. In this paper, we propose a novel
@@ -18,7 +17,7 @@ when evaluated on the NEMu dataset.
 
 ### Architecture:   
 
-![arch](./arch.png)
+![arch](./architecture.png)
 
 
 ### Environment
