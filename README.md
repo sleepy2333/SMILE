@@ -24,5 +24,9 @@ adjusts the spike thresholds. The fine-grained semantic and temporal information
 investigated by the spiking-scaled attention. Multi-modal interaction and label-modality dependence are captured through the
 modality-interactive exploration module and the label-modality matching module.
 
-### Environment
+### Usage
+#### Datasets
+CMU-MOSEI files can be downloaded from [here](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)
+NEMu files can be downloaded from [here](https://github.com/MANLP-suda/HHMPN)
+#### Environment
   pytorch=1.8.0 ,spikingjelly==0.0.0.0.14,scipy=1.6.2
