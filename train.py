@@ -10,12 +10,6 @@ from utils import get_metrics
 from spikingjelly.activation_based import functional
 
 
-def getBinaryTensor(imgTensor, boundary=0.35):  # 0.35
-    one = torch.ones_like(imgTensor)
-    zero = torch.zeros_like(imgTensor)
-    return torch.where(imgTensor > boundary, one, zero)
-
-
 def initialize(dataset: str, aligned: bool, feature: str, config):
     if feature == 'glove':
         DS = MMDataset
@@ -151,3 +145,8 @@ def train_and_eval(config):
     print('test_P: {}'.format(test_micro_precision))
     print('test_R: {}'.format(test_micro_recall))
     #############################################################################################################
+
+def getBinaryTensor(imgTensor, boundary=0.35):  # 0.35
+    one = torch.ones_like(imgTensor)
+    zero = torch.zeros_like(imgTensor)
+    return torch.where(imgTensor > boundary, one, zero)
