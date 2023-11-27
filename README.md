@@ -89,8 +89,8 @@ For uni-modal multi-label classification approaches that are only based on text 
 
 [16] Dushyant Singh Chauhan, Md. Shad Akhtar, Asif Ekbal, and Pushpak Bhattacharyya, “Context-aware interactive attention for multi-modal sentiment and emotion analysis,” in Proceedings of the Conference on Empirical Methods in Natural Language Processing, 2019, pp. 5646–5656. 
 
-[17]Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, and Dinesh Manocha, “M3er: Multiplicative multimodal emotion recognition using facial, textual, and speech cues,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2020, pp. 1359–1367. 
+[17] Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, and Dinesh Manocha, “M3er: Multiplicative multimodal emotion recognition using facial, textual, and speech cues,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2020, pp. 1359–1367. 
 
-[18]Yi Zhang, Mingyuan Chen, Jundong Shen, and Chongjun Wang, “Tailor versatile multi-modal learning for multi-label emotion recognition,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2022, pp. 9100–9108.
+[18] Yi Zhang, Mingyuan Chen, Jundong Shen, and Chongjun Wang, “Tailor versatile multi-modal learning for multi-label emotion recognition,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2022, pp. 9100–9108.
 
 [19] Shiping Ge, Zhiwei Jiang, Zifeng Cheng, Cong Wang, Yafeng Yin, and Qing Gu, “Learning robust multi-modal representation for multi-label emotion recognition via adversarial masking and perturbation,” in Proceedings of the International World Wide Web Conferences, 2023, pp. 1510–1518. 
